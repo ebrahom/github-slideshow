@@ -1,10 +1,10 @@
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
-
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+به ** مخزن ** خود برای دوره آزمایش آزمایش GitHub خوش آمدید . این مخزن در طول فعالیت های مختلفی که من شما را راهنمایی می کنم مورد استفاده قرار خواهد گرفت. کلمه ای را می فهمید که نمی فهمید؟ ما یک ایموجی را در کنار برخی اصطلاحات کلیدی گنجانده ایم. روی آن کلیک کنید تا تعریف آن را ببینید.
+</s>avkanî
+... اوه من خودم هستم
+</s> avkanî
+من ربات آزمایشگاه آموزشی GitHub هستم و اینجا هستم که برای راهنمایی شما در سفر خود به شما کمک می کنم تا مباحث مختلفی را که در این دوره یاد گرفته اید و یاد بگیرید. من برای برقراری ارتباط با شما از شماره های Issue استفاده می کنم و برای درخواست شما می کشم. در واقع ، من در حال حاضر یک موضوع را برای بررسی شما اضافه کردم.
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
